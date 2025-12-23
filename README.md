@@ -1,7 +1,7 @@
 
   # Landing Page
 
-  This is a code bundle for Landing Page. The original project is available at https://www.figma.com/design/la442HWM4SmYrrAXEZQOz4/Landing-Page.
+ 
 
   ## Running the code
 
